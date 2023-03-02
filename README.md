@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 30 Days of Data Science
-- 🌱 I’m currently learning Azure Machine Learning
 - 💬 Ask me about Data, Machine Learning and AI
 - 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep) or find me @bethanyjep everywhere!
 
