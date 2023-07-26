@@ -12,6 +12,7 @@
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
 - 🎸 *Music is the rhythm of my soul*: I am currently learning how to play the guitar to strum along to my favourite tunes. Here's what am currently listening to:
+
 ![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=qr1elfkdkm9ahgsby6zs0uff7)
 
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
