@@ -1,7 +1,42 @@
 ### Hi there 👋
+</p>
+    <a href="https://github.com/bethanyjep">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bethanyjep&theme=radical" alt="bethanyjep"/>
+    </a>
+</p>
 
-- 💬 Ask me about Data, Machine Learning and AI
-- 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep) or find me @bethanyjep everywhere!
+## Here's a bit about me:
+- 🔭 I’m currently working on a new Learn Module 😉
+- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [AI 2042: Ten Visions for our Future](https://www.ai2041.com/) now.
+- 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
+- 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
+- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
+- 🎸 *Music is the rhythm of my soul*: I am currently learning how to play the guitar to strum along to my favourite tunes. Here's what am currently listening to:
+![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=qr1elfkdkm9ahgsby6zs0uff7)
+
+## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
+#### as a cloud advocate I:
+run AI/ML workshops, series or shorts on Youtube channels. 
+* 🎥[Game of Learners for AI & ML](https://aka.ms/GOLAIML-playlist)
+* 🎥[30 Days of Data Science](https://aka.ms/30DaysDataScience)
+* 🎥[Random password generator with python and GitHub Copilot](https://www.youtube.com/shorts/4v006V7KVeA)
+* 🎥 [MLSA Coffee and Tea Chat with a Data Scientist](https://www.youtube.com/watch?v=U7tHjCxAzNM)
+
+write articles at [Educators blog](https://aka.ms/faculty) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
+* 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
+* 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569)
+
+contribute to develop and maintain learning content for AI/ML:
+* 📚[Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
+* 📚[AI For Beginners](https://aka.ms/ai4beginners)
+* 📚[.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
+* 📚[30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
+
+> 📫
+>
+> How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
+
+![Profile views](https://komarev.com/ghpvc/?username=bethanjep)
 
 <!--
 **BethanyJep/BethanyJep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
