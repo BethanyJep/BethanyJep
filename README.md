@@ -16,22 +16,22 @@
 ![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=qr1elfkdkm9ahgsby6zs0uff7)
 
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
-#### as a cloud advocate I:
-run AI/ML workshops, series or shorts on Youtube channels. 
-* 🎥[Game of Learners for AI & ML](https://aka.ms/GOLAIML-playlist)
-* 🎥[30 Days of Data Science](https://aka.ms/30DaysDataScience)
-* 🎥[Random password generator with python and GitHub Copilot](https://www.youtube.com/shorts/4v006V7KVeA)
-* 🎥 [MLSA Coffee and Tea Chat with a Data Scientist](https://www.youtube.com/watch?v=U7tHjCxAzNM)
+#### As a cloud advocate I:
+* run AI/ML workshops, series or shorts on Youtube channels. 
+    * 🎥[Game of Learners for AI & ML](https://aka.ms/GOLAIML-playlist)
+    * 🎥[30 Days of Data Science](https://aka.ms/30DaysDataScience)
+    * 🎥[Random password generator with python and GitHub Copilot](https://www.youtube.com/shorts/4v006V7KVeA)
+    * 🎥 [MLSA Coffee and Tea Chat with a Data Scientist](https://www.youtube.com/watch?v=U7tHjCxAzNM)
 
-write articles at [Educators blog](https://aka.ms/faculty) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
-* 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
-* 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569)
+* write articles at [Educators blog](https://aka.ms/faculty) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
+    * 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
+    * 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569)
 
-contribute to develop and maintain learning content for AI/ML:
-* 📚[Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
-* 📚[AI For Beginners](https://aka.ms/ai4beginners)
-* 📚[.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
-* 📚[30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
+* contribute to develop and maintain learning content for AI/ML:
+    * 📚[Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
+    * 📚[AI For Beginners](https://aka.ms/ai4beginners)
+    * 📚[.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
+    * 📚[30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
 
 > 📫
 >
