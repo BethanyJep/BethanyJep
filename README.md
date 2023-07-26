@@ -33,9 +33,7 @@
     * 📚[.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
     * 📚[30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
 
-> 📫
->
-> How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
+> 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
 
 ![Profile views](https://komarev.com/ghpvc/?username=bethanjep)
 
