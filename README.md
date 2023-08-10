@@ -24,8 +24,9 @@
     * 🎥 [MLSA Coffee and Tea Chat with a Data Scientist](https://www.youtube.com/watch?v=U7tHjCxAzNM)
 
 * write articles at [Educators blog](https://aka.ms/faculty) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
+    * 📰[How to Leverage Microsoft Fabric for Data Science](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-leverage-microsoft-fabric-for-data-science/ba-p/3889244?WT.mc_id=academic-103165-bethanycheum) 
     * 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
-    * 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569)
+    * 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569?WT.mc_id=academic-103165-bethanycheum)
 
 * contribute to develop and maintain learning content for AI/ML:
     * 📚[Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
