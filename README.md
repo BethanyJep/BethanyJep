@@ -7,7 +7,7 @@
 
 ## Here's a bit about me:
 - 🔭 I’m currently working on a new Learn Module 😉
-- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [AI 2042: Ten Visions for our Future](https://www.ai2041.com/) now.
+- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [AI 2042: Ten Visions for our Future](https://www.ai2041.com/) & [an ordinary wonder by Buki Papillon](https://www.goodreads.com/en/book/show/49955990-an-ordinary-wonder).
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
