@@ -6,8 +6,8 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m currently working on a new Learn Module 😉
-- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [AI 2042: Ten Visions for our Future](https://www.ai2041.com/) & [an ordinary wonder by Buki Papillon](https://www.goodreads.com/en/book/show/49955990-an-ordinary-wonder).
+- 🔭 I’m currently working on a new [Learn Module]((https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)) 😉 find it here 👉 [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)
+- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [AI 2042: Ten Visions for our Future](https://www.ai2041.com/) & [The Secret Lives of Baba Segi's Wives by Lola Shoneyin](https://www.goodreads.com/book/show/7194279-the-secret-lives-of-baba-segi-s-wives).
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
@@ -29,10 +29,11 @@
     * 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569?WT.mc_id=academic-103165-bethanycheum)
 
 * contribute to develop and maintain learning content for AI/ML:
-    * 📚[Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
-    * 📚[AI For Beginners](https://aka.ms/ai4beginners)
-    * 📚[.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
-    * 📚[30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
+    * 🤖 [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)
+    * 🦁 [Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
+    * 🧚 [AI For Beginners](https://aka.ms/ai4beginners)
+    * 🧑‍💻 [.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
+    * 📆 [30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
 
 > 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
 
