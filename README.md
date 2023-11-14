@@ -7,7 +7,7 @@
 
 ## Here's a bit about me:
 - 🔭 I’m currently working on a new curriculum 😉.
-- 🌱 I’m currently learning everything about AI and Finance, I am 📖reading [Design of Everyday Things by Don Norman]([https://www.ai2041.com/](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)) & [The Secret Lives of Baba Segi's Wives by Lola Shoneyin](https://www.goodreads.com/book/show/7194279-the-secret-lives-of-baba-segi-s-wives).
+- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and Finance, I am 📖reading [Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X) & [Wahala by Nikky May](https://www.goodreads.com/book/show/57797679-wahala).
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
