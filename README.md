@@ -6,8 +6,8 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m currently working on new Retrival Augumented Generation (RAG) content😉.
-- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and Finance, I am 📖reading [Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X) & [Wahala by Nikky May](https://www.goodreads.com/book/show/57797679-wahala) and many others, I should probably stick to one book till the end.
+- 🔭 I’m currently working on new  [Retrival Augumented Generation (RAG)](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum) content😉.
+- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and Finance, I am 📖reading Hands-On Large Language Models by Jay Alammar, Maarten Grootendorst & What happened to Jenet Ozor by Miracle Emeka-Nkwor and many others, I should probably stick to one book till the end.
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
@@ -31,10 +31,11 @@ Here's what am currently listening to:
     * 📰[How to Leverage Microsoft Fabric for Data Science](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-leverage-microsoft-fabric-for-data-science/ba-p/3889244?WT.mc_id=academic-103165-bethanycheum) 
     * 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
     * 📰[How to maximize your Azure for Students benefit and reduce spend.](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-maximize-your-azure-for-students-benefit-and-reduce-spend/ba-p/3620569?WT.mc_id=academic-103165-bethanycheum)
-    * [How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
+    * 📰[How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
 
 * contribute to develop and maintain learning content for AI/ML:
-    * 🤖 Coming soon: RAG content
+    * 🤖 Prompts to production with Prompt Flow
+    * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
     * 🏗️ [Generative AI for Innovators Series](https://aka.ms/genai-innovators/MVP)
     * 🤖 [Generative AI for Beginners](https://aka.ms/genai-beginners)
     * 🤖 [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)
