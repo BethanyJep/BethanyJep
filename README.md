@@ -6,7 +6,7 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m preparing my keynote bit and sessions for [AI Tour Berlin](https://msevents.microsoft.com/event?id=3085871691)😉.
+<!-- - 🔭 I’m preparing my keynote bit and sessions for [AI Tour Berlin](https://msevents.microsoft.com/event?id=3085871691)😉. -->
 - 🌱 I’m currently learning everything about African Literature, Pyschology, AI and Finance, I am 📖reading Hands-On Large Language Models by Jay Alammar, Maarten Grootendorst & What happened to Jenet Ozor by Miracle Emeka-Nkwor and many others, I should probably stick to one book till the end.
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
