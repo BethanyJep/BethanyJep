@@ -6,11 +6,11 @@
 </p>
 
 ## Here's a bit about me:
-<!-- - 🔭 I’m preparing my keynote bit and sessions for [AI Tour Berlin](https://msevents.microsoft.com/event?id=3085871691)😉. -->
-- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and Finance, I am 📖reading Hands-On Large Language Models by Jay Alammar, Maarten Grootendorst & What happened to Jenet Ozor by Miracle Emeka-Nkwor and many others, I should probably stick to one book till the end.
+- 🔭 I’m working on Prompty and PromptFlow --> look out for new content coming soon & Experts Live, Kenya.
+- 🌱 I’m currently learning everything about African Literature, Grief, AI and Finance, I am 📖reading Notes on Grief by Chimamanda, Maarten Grootendorst & The Promise by Damon Galgut, I should probably stick to one book till the end.
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
-- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
+- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me volunteering, mainly teaching, or trying to tick something off my bucket list.
 - 🎸 *Music is the rhythm of my soul*: I am currently learning how to play the guitar to strum along to my favourite tunes.
 <!--
 Here's what am currently listening to:
@@ -34,7 +34,7 @@ Here's what am currently listening to:
     * 📰[How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
 
 * contribute to develop and maintain learning content for AI/ML:
-    * 🤖 Currently working on prompts to production with Prompt Flow
+    * 🤖 Currently working on a new webinar series.
     * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
     * 🏗️ [Generative AI for Innovators Series](https://aka.ms/genai-innovators/MVP)
     * 🤖 [Generative AI for Beginners](https://aka.ms/genai-beginners)
