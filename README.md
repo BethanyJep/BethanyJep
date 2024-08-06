@@ -6,17 +6,9 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working on Prompty and PromptFlow --> look out for new content coming soon & Experts Live, Kenya.
-- 🌱 I’m currently learning everything about African Literature, Grief, AI and Finance, I am 📖reading Notes on Grief by Chimamanda, Maarten Grootendorst & The Promise by Damon Galgut, I should probably stick to one book till the end.
+- 🔭 I’m working on Prompty and PromptFlow
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
-- 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
-- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me volunteering, mainly teaching, or trying to tick something off my bucket list.
-- 🎸 *Music is the rhythm of my soul*: I am currently learning how to play the guitar to strum along to my favourite tunes.
-<!--
-Here's what am currently listening to:
 
-![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=qr1elfkdkm9ahgsby6zs0uff7)
--->
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
 #### As a cloud advocate I:
 * speak and/or run AI/ML workshops, livestreams or videos: 
@@ -46,7 +38,7 @@ Here's what am currently listening to:
 
 > 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
 
-![Profile views](https://komarev.com/ghpvc/?username=bethanjep)
+
 
 <!--
 **BethanyJep/BethanyJep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
