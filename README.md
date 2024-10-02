@@ -6,8 +6,11 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working on Prompty and PromptFlow
+- 🔭 I’m working on Prompty 🌟 and building my personal blog
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
+- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and well, fiction.
+- 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
+- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
 
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
 #### As a cloud advocate I:
@@ -26,7 +29,7 @@
     * 📰[How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
 
 * contribute to develop and maintain learning content for AI/ML:
-    * 🤖 Currently working on a new webinar series.
+    * 🤖 Currently working on Prompty
     * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
     * 🏗️ [Generative AI for Innovators Series](https://aka.ms/genai-innovators/MVP)
     * 🤖 [Generative AI for Beginners](https://aka.ms/genai-beginners)
