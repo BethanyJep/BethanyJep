@@ -6,7 +6,7 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working on [Prompty](https://prompty.ai/docs) 🌟 and building my personal blog
+- 🔭 I’m working on [Prompty](https://prompty.ai/docs) 🌟 and building my [personal blog](https://bethany-jep.com/)
 - 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
 - 🌱 I’m currently learning everything about African Literature, Pyschology, AI and well, fiction.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
