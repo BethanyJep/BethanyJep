@@ -6,11 +6,11 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working on [Prompty](https://prompty.ai/docs) 🌟 and building my [personal blog](https://bethany-jep.com/)
-- 💬 Ask me about: - Data Science, Machine Learning and AI 😄.
-- 🌱 I’m currently learning everything about African Literature, Pyschology, AI and well, fiction.
+- 🔭 I’m working [building agents :-)](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/is-it-a-bug-or-a-feature-using-prompty-to-automatically-track-and-tag-issues-/4409327)
+- 💬 Ask me about: - Python, Data Science, Machine Learning and AI 😄.
+- 🌱 I’m currently building my [YouTube Channel](https://www.youtube.com/@bethany-jep) by creating videos on AI.
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
-- ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me hiking or trying to tick something off my bucket list.
+- ⚡ Fun fact: I am a house cat.
 
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
 #### As a cloud advocate I:
@@ -29,14 +29,11 @@
     * 📰[How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
 
 * contribute to develop and maintain learning content for AI/ML:
-    * 🤖 Currently working on Prompty
     * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
-    * 🏗️ [Generative AI for Innovators Series](https://aka.ms/genai-innovators/MVP)
     * 🤖 [Generative AI for Beginners](https://aka.ms/genai-beginners)
     * 🤖 [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)
     * 🦁 [Analyzing Snapshot Serengeti data with Microsoft Fabric](https://moaw.dev/workshop/fabric-ss/)
     * 🧚 [AI For Beginners](https://aka.ms/ai4beginners)
-    * 🧑‍💻 [.NET Conference Student Zone](https://github.com/microsoft/dotnetconf-studentzone)
     * 📆 [30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science)
 
 > 📫 How to reach me: [Twitter](https://twitter.com/bethanyjep), [LinkedIn](https://www.linkedin.com/in/bethany-jep) or find me @bethanyjep everywhere!
