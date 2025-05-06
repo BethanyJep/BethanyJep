@@ -18,8 +18,6 @@
     * 🎥[Microsoft Ignite Learn Live: Build an AI-enabled chat w/ Azure OpenAI & Azure Cosmos DB](https://ignite.microsoft.com/en-US/sessions/80cb0c1c-d2af-4e9d-975d-c94f135c976e?source=sessions)
     * 🎥[Game of Learners for AI & ML](https://aka.ms/GOLAIML-playlist)
     * 🎥[30 Days of Data Science](https://aka.ms/30DaysDataScience)
-    * 🎥[Random password generator with python and GitHub Copilot](https://www.youtube.com/shorts/4v006V7KVeA)
-    * 🎥 [MLSA Coffee and Tea Chat with a Data Scientist](https://www.youtube.com/watch?v=U7tHjCxAzNM)
 
 * write articles at [Educators blog](https://aka.ms/faculty) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
     * 📰[Analyzing Wildlife Data with Microsoft Fabric: end-to-end workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/analyzing-wildlife-data-with-microsoft-fabric-end-to-end/ba-p/3974880)
