@@ -32,6 +32,7 @@
     * 📰[How to detect handwriting with Azure Computer Vision and Azure Vision Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-detect-handwriting-with-azure-computer-vision-and-azure/ba-p/3590057)
 
 * contribute to develop and maintain learning content for AI/ML:
+    * 📑 [Prompty documentation](https://prompty.ai/docs)
     * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
     * 🤖 [Generative AI for Beginners](https://aka.ms/genai-beginners)
     * 🤖 [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum)
