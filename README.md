@@ -6,7 +6,7 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working [building agents :-)](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/is-it-a-bug-or-a-feature-using-prompty-to-automatically-track-and-tag-issues-/4409327) and [Prompty](https://github.com/microsoft/prompty)
+- 🔭 I’m working [building agents :-)](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/is-it-a-bug-or-a-feature-using-prompty-to-automatically-track-and-tag-issues-/4409327) and maybe MCPs?
 - 💬 Ask me about: - Python, Data Science, Machine Learning and AI 😄.
 - 🌱 I’m currently building my [YouTube Channel](https://www.youtube.com/@bethany-jep) by creating videos on AI. Also checkout my [personal blog](https://bethany-jep.com/) and [newsletter](https://abcdofai.substack.com/).
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/)
