@@ -6,8 +6,8 @@
 </p>
 
 ## Here's a bit about me:
-- 🔭 I’m working [fine tuning)](https://github.com/microsoft/aitour26-BRK443-efficient-model-customization-with-microsoft-foundry) and Agentic DevOps
-- 💬 Ask me about: - Python, Data Science, Machine Learning and AI 😄.
+- 🔭 I am working on content around [Fine Tuning in Microsoft Foundry](https://github.com/microsoft/Build26-LAB521-improving-agent-behavior-using-reinforcement-learning-from-traces) and [Foundry Toolkit extension for VS Code.](https://code.visualstudio.com/docs/intelligentapps/overview)
+- 💬 Ask me about: - Microsoft Foundry, Python, Data Science, Machine Learning and AI 😄.
 - 🌱 I’m currently building my [YouTube Channel](https://www.youtube.com/@bethany-jep) by creating videos on AI. Also checkout my [personal blog](https://bethany-jep.com/) and [newsletter](https://abcdofai.substack.com/). In the revival process btw :-).
 - 🎨I define myself as a **creative**, trying to create with whatever tools I have! Find my recent creations at [@artsy.chu](https://www.instagram.com/artsy.chu/). Will have an updated page for my blog on my hobbies and trinkets.
 - 🎤 Want me to speak at your events, check out my [sessionize profile](https://sessionize.com/bethanyjep/) and [past talks](https://bethany-jep.com/events/) on what topics I can speak on.
@@ -27,6 +27,9 @@
     * 📰[Using Azure ML to Train a Serengeti Data Model for Animal Identification](https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/)
 
 * contribute to develop and maintain learning content for AI/ML:
+    * 📑 [Improving Agent Behavior Using Reinforcement Learning from Traces Lab delivered at Microsoft Build 2026](https://github.com/microsoft/Build26-LAB521-improving-agent-behavior-using-reinforcement-learning-from-traces)
+    * 📑 [Fine Tuning in Microsoft Foundry for AI Tour 2025/26](https://github.com/microsoft/aitour26-BRK443-efficient-model-customization-with-microsoft-foundry/)
+    * 📑 [Build your own agent workshop delivered at Safaricom Decode](https://github.com/BethanyJep/Safaricom-Decode-Agents-Workshop)    
     * 📑 [End to end Microsoft Foundry Lab delivered at Microsoft Ignite 2025](https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry)
     * 📑 [Prompty documentation](https://prompty.ai/docs)
     * 🤖 [RAG and databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum)
