@@ -14,9 +14,9 @@
 
 ## I am a [Cloud Advocate](https://developer.microsoft.com/en-us/advocates/bethany-cheum) at Microsoft:
 #### [As a cloud advocate I:](https://bethany-jep.com)
-* 🎥 speak and/or run AI/ML workshops, livestreams or videos:
-* 📰 write articles at [Educators blog](https://aka.ms/faculty), [Microsoft Developer Community](https://techcommunity.microsoft.com/category/azure/blog/azuredevcommunityblog) and [Open Data Science](https://odsc.com/microsoft/#blogs). Latest blog posts:
-* 🤖 contribute to develop and maintain learning content for AI/ML:
+* 🎥 speak and/or run AI/ML workshops, livestreams or videos
+* 📰 write articles at [Educators blog](https://aka.ms/faculty), [Microsoft Developer Community](https://techcommunity.microsoft.com/category/azure/blog/azuredevcommunityblog) and [Open Data Science](https://odsc.com/microsoft/#blogs).
+* 🤖 contribute to develop and maintain learning content for AI/ML
     
 > 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bethany-jep).
 
